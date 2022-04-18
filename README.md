@@ -72,7 +72,9 @@ PATCH-запрос: http://127.0.0.1:8000/api/v1/titles/{title_id}/reviews/{revi
 
 ### Авторы проекта:
 Виталий Усенко: https://github.com/vitalyuvv
+
 Юрий Ребрик: https://github.com/gkirber
+
 Александр Плисков: https://github.com/Glaser1
 
 Проект распространяется под лиценцией BSD
