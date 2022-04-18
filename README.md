@@ -68,15 +68,15 @@ PATCH-запрос: http://127.0.0.1:8000/api/v1/titles/{title_id}/reviews/{revi
 
 
 ### Документация:
-Доступна после запуска проекта [здесь](https://127.0.0.1:8000/redoc/)
+  Доступна после запуска проекта [здесь](https://127.0.0.1:8000/redoc/)
 
 
 ### Авторы проекта:
-Виталий Усенко: https://github.com/vitalyuvv
+  Виталий Усенко: https://github.com/vitalyuvv
 
-Юрий Ребрик: https://github.com/gkirber
+  Юрий Ребрик: https://github.com/gkirber
 
-Александр Плисков: https://github.com/Glaser1
+  Александр Плисков: https://github.com/Glaser1
 
 
 Проект распространяется под лиценцией BSD
