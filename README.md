@@ -71,11 +71,11 @@ PATCH-запрос: http://127.0.0.1:8000/api/v1/titles/{title_id}/reviews/{revi
 
 
 
-### Документация:
+## Документация:
 Доступна после запуска проекта [здесь](https://127.0.0.1:8000/redoc/)
 
 
-### Авторы проекта:
+## Авторы проекта:
   Виталий Усенко: https://github.com/vitalyuvv
 
   Юрий Ребрик: https://github.com/gkirber
